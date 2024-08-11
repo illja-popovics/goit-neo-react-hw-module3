@@ -1,0 +1,20 @@
+.contactForm {
+    border: 2px solid #000;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.label {
+    display: block;
+    /* Ensures the label is on its own line */
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
